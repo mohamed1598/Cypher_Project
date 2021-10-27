@@ -1,0 +1,10 @@
+G:\tasks\CypherProject\CypherProject\bin\Debug\CypherProject.exe.config
+G:\tasks\CypherProject\CypherProject\bin\Debug\CypherProject.exe
+G:\tasks\CypherProject\CypherProject\bin\Debug\CypherProject.pdb
+G:\tasks\CypherProject\CypherProject\obj\Debug\CypherProject.csprojAssemblyReference.cache
+G:\tasks\CypherProject\CypherProject\obj\Debug\CypherProject.Form1.resources
+G:\tasks\CypherProject\CypherProject\obj\Debug\CypherProject.Properties.Resources.resources
+G:\tasks\CypherProject\CypherProject\obj\Debug\CypherProject.csproj.GenerateResource.cache
+G:\tasks\CypherProject\CypherProject\obj\Debug\CypherProject.csproj.CoreCompileInputs.cache
+G:\tasks\CypherProject\CypherProject\obj\Debug\CypherProject.exe
+G:\tasks\CypherProject\CypherProject\obj\Debug\CypherProject.pdb
